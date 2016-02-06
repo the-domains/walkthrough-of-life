@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Walkthrough of Life]]></title>
         <description><![CDATA[Walkthrough of Life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/walkthrough-of-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 03:51:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 09:52:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/walkthrough-of-life/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bdbf18d-b22c-4282-84bd-635915619685.jpg">]]></description>
-            <link>undefined24024460-5c2a-476a-a301-c03000a61b3e/index.html</link>
+            <link>https://thegrid.ai/walkthrough-of-life/24024460-5c2a-476a-a301-c03000a61b3e/index.html</link>
             <guid isPermaLink="false">24024460-5c2a-476a-a301-c03000a61b3e</guid>
-            <pubDate>Sat, 06 Feb 2016 03:51:17 GMT</pubDate>
+            <pubDate>Sat, 06 Feb 2016 09:52:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
